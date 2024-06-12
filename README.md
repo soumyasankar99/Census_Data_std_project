@@ -22,38 +22,6 @@ The Census Data Standardization and Analysis Pipeline involves several key steps
 
 ## 📁 Project Structure
 
-census_data_project/
-│
-├── data/
-│ ├── Processed
-|      |--census_data_DE.csv
-│ └── raw
-|      |--census_2011.xlsx
-|      |--Jammu_and_kashmir.txt
-|      |--Telengana.txt  
-|___ notebooks
-├── scripts/
-│ ├── __init__.py
-│ ├── data_cleaning.py
-│ ├── data_standardization.py
-│ ├── missing_data_processing.py
-│ ├── database_operations.py
-│ ├── data_analysis.py
-│ └── visualization.py
-│
-├── tests/
-│ ├── __init__.py
-│ ├── test_data_cleaning.py
-│ ├── test_data_standardization.py
-│ ├── test_missing_data_processing.py
-│ ├── test_database_operations.py
-│ ├── test_data_analysis.py
-│ └── test_visualization.py
-│
-|── .gitignore
-├── requirements.txt
-├── README.md
-└── main.py
 
 
 ## 📜 Getting Started
