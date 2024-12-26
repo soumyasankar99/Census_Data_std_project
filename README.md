@@ -3,7 +3,7 @@
 Welcome to the Census Data Standardization and Analysis Pipeline project! This project aims to clean, standardize, process, and analyze census data to ensure uniformity, accuracy, and accessibility. The ultimate goal is to provide insightful visualizations that can aid in understanding the census data more effectively.
 
 ## 🚀 Project Overview
-![Uploading Capstone Project-1.jpg…]() 
+![Capstone Project-1](https://github.com/user-attachments/assets/592fe444-8493-464d-bd4c-7102627b422c)
 
 
 The Census Data Standardization and Analysis Pipeline involves several key steps:
