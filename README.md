@@ -3,6 +3,8 @@
 Welcome to the Census Data Standardization and Analysis Pipeline project! This project aims to clean, standardize, process, and analyze census data to ensure uniformity, accuracy, and accessibility. The ultimate goal is to provide insightful visualizations that can aid in understanding the census data more effectively.
 
 ## 🚀 Project Overview
+![Capstone Project-1 (1)](https://github.com/user-attachments/assets/c475786c-8189-473b-99fb-c1076e0cc12f)
+
 
 The Census Data Standardization and Analysis Pipeline involves several key steps:
 1. **Data Cleaning**: Renaming columns for consistency.
@@ -11,8 +13,10 @@ The Census Data Standardization and Analysis Pipeline involves several key steps
 4. **Data Storage**: Saving the cleaned data to MongoDB and uploading it to an SQL database.
 5. **Data Analysis**: Running SQL queries to derive meaningful insights.
 6. **Visualization**: Using Streamlit to create interactive and informative visualizations.
+![Capstone Project-1](https://github.com/user-attachments/assets/40fdf2bf-5397-4b65-93eb-436f600bf1c9)
 
 ## 🛠️ Technologies Used
+![Capstone Project-1 (2)](https://github.com/user-attachments/assets/152faed9-1b5d-461d-abbe-16db85ad06f1)
 
 - **Python**: The primary programming language for data processing and analysis.
 - **SQL**: For relational database operations.
@@ -22,6 +26,7 @@ The Census Data Standardization and Analysis Pipeline involves several key steps
 
 ## 📁 Project Structure
 
+![Capstone Project-1 (3)](https://github.com/user-attachments/assets/aadcbbce-fa4f-47de-8eba-e26cc1f1e0b9)
 
 
 ## 📜 Getting Started
