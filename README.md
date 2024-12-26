@@ -42,7 +42,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/census_data_pipeline.git
+   git clone https://github.com/soumyasankar99/census_data_pipeline.git
    cd census_data_pipeline
 
 2.**Install the required Python packages**:
